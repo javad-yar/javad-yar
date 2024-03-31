@@ -2,11 +2,9 @@
 - 👀 I’m interested in both front end and backend programing
 - 🌱 I’m currently learning wordpress and rust
 - 💞️ I’m looking to collaborate
+- 💻 my experties are in : python | c | java | html-css-javascript-jquery | ui
 - 📫 How to reach me :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-javad-yar/javad-yar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
